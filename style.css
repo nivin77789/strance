@@ -337,3 +337,27 @@ footer {
 button:hover {
   cursor: pointer;
 }
+h2 {
+  cursor: pointer;
+}
+footer p {
+  cursor: pointer;
+}
+footer h1 {
+  cursor: pointer;
+}
+.navio {
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-left: 1px solid grey;
+  border-right: 1px solid grey;
+}
+.naver {
+  padding-left: 400px;
+}
+.iteme {
+  padding-left: 14px;
+}
